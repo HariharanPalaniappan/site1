@@ -1,0 +1,192 @@
+@media only screen and (min-width: 768px){
+	.second_employee{
+		display: none;
+	}
+	#logo{
+		width: 150px;
+	}
+	/*section7*/
+	.footer_location{
+		margin-top: 60px;
+	}
+	.employee_imgs{
+		text-align: center;
+	}
+	.work_imgs {
+		padding: 0 1px;
+		width: 100%;
+	}
+	.tab_edit{
+		padding:58px 51px 100px 51px;
+		border-right: 1px solid #bbb;
+	}
+	.tab_edit .about_icon i{
+		padding: 15px 0px;
+		font-size: 60px;
+		color: #f07a78;
+	}
+	.tab_edit h2{
+		font-size: 18px;
+		font-weight: 500;
+		padding: 15px 0px;
+		font-family: 'Poppins', sans-serif;
+	}
+	.tab_edit p{
+		font-size: 18px;
+		line-height: 25px;
+		color: #6c727a;
+		font-weight: 300;
+	}
+	.tab_s_edit{
+		padding: 0px 30px;
+	}
+	.tab_s_edit .about_icon i{
+		padding: 15px 0px;
+		font-size: 40px;
+		color: #f07a78;
+	}
+	.tab_s_edit h2{
+		font-size: 15px;
+		font-weight: 500;
+		padding: 15px 0px;
+		font-family: 'Poppins', sans-serif;
+	}
+	.tab_s_edit p{
+		font-size: 14px;
+		line-height: 20px;
+		color: #6c727a;
+	}
+	.row_2{
+		display: none;
+	}
+	.menu {
+		display: none;
+	}
+	.nav_menu{
+		display: block;
+		text-align: right;
+	}
+	.nav_menu ul li{
+		display: inline-block;
+	}
+	.nav_menu ul li a{
+		font-size: 12px;
+		text-decoration: none;
+		color: #fff;
+		padding: 10px 20px;
+		display: inline-block;
+		transition: all .3s linear;
+	}
+	.nav_menu ul li a:hover{
+		color: #67677d;
+		background:#eee;
+	}
+	.menu-div{
+		float: right;
+	}	
+}
+@media only screen and (min-width: 1024px){
+	.second_employee{
+		display: block;
+	}
+	.row_2{
+		display: block;
+	}
+	#logo {
+		width: 100%;
+	}
+	.about{
+		text-align: center;
+		padding: 20px 30px;
+		margin-top: 0;
+		border-right: none;
+	}
+	.about .about_icon i{
+		padding: 15px 0px;
+		font-size: 60px;
+		color: #f07a78;
+	}
+	.about h2{
+		font-size: 16px;
+		font-weight: 600;
+		padding: 15px 0px;
+		font-family: 'Poppins', sans-serif;
+	}
+	.about p{
+		font-size: 14px;
+		line-height: 22px;
+		color: #6c727a;
+	}
+	.banner-content p {
+		padding: 0 180px;
+		padding-top: 15px;
+		padding-bottom: 100px;
+	}
+	.slider-content {
+		padding:0;
+		margin-top: 45px;
+	}
+	.employee_content{
+		text-align: left;
+	}
+	.employees_details{
+		width: 100%;
+		padding: 0px 15px;
+	}
+	.employee_content, .employee_social_media {
+		text-align: left;
+	}
+	.slider-content p {
+		padding:0px 20px 0px 60px;
+		font-size: 17px;
+		line-height: 24px;
+	}
+	.slider-content .slider-name {
+		color: #fff;
+		font-size: 11px;
+		font-weight: 700;
+		display: inline-block;
+		padding: 0px 20px 0px 60px;
+		margin-top: 10px;
+		font-size: 8px;
+	}
+	.dot {
+		width: 10px;
+		height: 10px;
+		display: inline-block;
+		background: #755d6d;
+		border-radius: 50%;
+		margin-left: 4px;
+	}
+	.active {
+		background: #fff;
+	}
+	.dot_span {
+		margin-top: 65px;
+	}
+	.menu {
+		display: none;
+	}
+	.nav_menu{
+		display: block;
+		text-align: right;
+	}
+	.nav_menu ul li{
+		display: inline-block;
+	}
+	.nav_menu ul li a{
+		font-size: 12px;
+		text-decoration: none;
+		color: #fff;
+		padding: 10px 20px;
+		display: inline-block;
+		transition: all .3s linear;
+	}
+	.nav_menu ul li a:hover{
+		color: #67677d;
+		background:#eee;
+	}
+	.menu-div{
+		float: right;
+	}	
+}
